@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace MundoAnimal
 {
-    class Cachorro
+    class Cachorro : Animal
     {
     }
 }
