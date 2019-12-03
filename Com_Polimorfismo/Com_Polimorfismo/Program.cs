@@ -9,14 +9,24 @@ namespace Com_Polimorfismo
     class Program
     {
         static void Main(string[] args)
-        {
-            Player audio1 = new Player();
-
+        {          
             while (true)
             {
-                var aux = int.Parse(Console.ReadLine());
-                audio1.Playing(aux);
-                if (aux == 0)
+                var num = int.Parse(Console.ReadLine());
+                if (num != 0)
+                {
+                    if (num % 2 == 0)
+                    {
+                        MusicPlayer musicPlayer = new MP3Player();
+                    }
+                    else
+                    {
+                        MusicPlayer musicPlayer = new CDPlayer();
+                    }
+                    var player = new Player(musicPlayer);
+                    player.play();
+                }
+                else
                 {
                     break;
                 }

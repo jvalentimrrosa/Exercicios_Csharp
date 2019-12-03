@@ -8,19 +8,21 @@ namespace Com_Polimorfismo
 {
     class Player
     {
-        MP3Player mp3 = new MP3Player();
-        CDPlayer cd = new CDPlayer();
+        MusicPlayer player;
 
-        public void Playing(int num)
+        public Player(MusicPlayer player)
         {
-            if (num%2 == 0)
-            {
-                mp3.Play();
-            }
-            else
-            {
-                cd.Play();
-            }
+            this.player = player;
+        } 
+
+        public void setPlayer(MusicPlayer player)
+        {
+            this.player = player;
+        }
+        
+        public void play()
+        {
+            player.Play();
         }
     }
 }
