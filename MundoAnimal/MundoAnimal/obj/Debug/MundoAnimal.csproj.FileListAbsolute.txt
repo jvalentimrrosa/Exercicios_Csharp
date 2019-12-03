@@ -1,7 +1,0 @@
-C:\Users\jvalentim\Documents\Visual Studio 2017\Projetos\Exercicios_Csharp\MundoAnimal\MundoAnimal\bin\Debug\MundoAnimal.exe.config
-C:\Users\jvalentim\Documents\Visual Studio 2017\Projetos\Exercicios_Csharp\MundoAnimal\MundoAnimal\bin\Debug\MundoAnimal.exe
-C:\Users\jvalentim\Documents\Visual Studio 2017\Projetos\Exercicios_Csharp\MundoAnimal\MundoAnimal\bin\Debug\MundoAnimal.pdb
-C:\Users\jvalentim\Documents\Visual Studio 2017\Projetos\Exercicios_Csharp\MundoAnimal\MundoAnimal\obj\Debug\MundoAnimal.csprojAssemblyReference.cache
-C:\Users\jvalentim\Documents\Visual Studio 2017\Projetos\Exercicios_Csharp\MundoAnimal\MundoAnimal\obj\Debug\MundoAnimal.csproj.CoreCompileInputs.cache
-C:\Users\jvalentim\Documents\Visual Studio 2017\Projetos\Exercicios_Csharp\MundoAnimal\MundoAnimal\obj\Debug\MundoAnimal.exe
-C:\Users\jvalentim\Documents\Visual Studio 2017\Projetos\Exercicios_Csharp\MundoAnimal\MundoAnimal\obj\Debug\MundoAnimal.pdb
