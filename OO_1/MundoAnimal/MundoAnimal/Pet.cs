@@ -8,32 +8,33 @@ namespace MundoAnimal
 {
     class Pet
     {
-        Animal cao = new Cachorro();
-        Animal cat = new Gato();
-        string pet;
+        Animal pet;
+        //string animal, raca, dono;
 
-        public void VozCachorro()
+        public Pet(Animal pet)
         {
-            pet = cao.Voz("cão","Latir");
+            this.pet = pet;
         }
 
-        public void VozGato()
+        public void setPet(Animal pet)
         {
-            pet = cat.Voz("gato", "Miar");
+            this.pet = pet;
         }
 
-        public void Dono(string fulano)
+        public void Voz(string animal)
         {
-            string pet1;
-            if (pet == "cão")
-            {
-                pet1 = cao.Raca("dálmata");
-            }
-            else
-            {
-                pet1 = cat.Raca("persa");
-            }
-            Console.WriteLine(fulano + " é o dono do " + pet1);
+            pet.Voz(animal);
+        }
+
+        public void Raca(string raca)
+        {
+            pet.Raca(raca);
+        }
+
+        public void Dono(string dono)
+        {
+            pet.Dono(dono);
+            
         }
     }
 }

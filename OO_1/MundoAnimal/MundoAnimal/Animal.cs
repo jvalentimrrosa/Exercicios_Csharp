@@ -6,18 +6,14 @@ using System.Threading.Tasks;
 
 namespace MundoAnimal
 {
-    class Animal
+    abstract class Animal
     {
-        public string Voz(string animal, string voz)
-        {
-            Console.WriteLine(voz + " é a voz do " + animal);
-            return animal;
-        }
+        public abstract void Voz(string animal);
 
-        public string Raca (string raca)
-        {
-            return raca;
-        }
+        public abstract string Raca(string raca);
+
+        public abstract string Dono(string dono);
+       
     }
 
 }

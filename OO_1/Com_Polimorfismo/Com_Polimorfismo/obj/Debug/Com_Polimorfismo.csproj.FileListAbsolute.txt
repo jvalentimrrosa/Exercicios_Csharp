@@ -12,3 +12,10 @@ C:\Users\jvalentim\Documents\Visual Studio 2017\Projetos\Exercicios_Csharp\Com_P
 C:\Users\jvalentim\Documents\Visual Studio 2017\Projetos\Exercicios_Csharp\Com_Polimorfismo\Com_Polimorfismo\obj\Debug\Com_Polimorfismo.csproj.CoreCompileInputs.cache
 C:\Users\jvalentim\Documents\Visual Studio 2017\Projetos\Exercicios_Csharp\Com_Polimorfismo\Com_Polimorfismo\obj\Debug\Com_Polimorfismo.exe
 C:\Users\jvalentim\Documents\Visual Studio 2017\Projetos\Exercicios_Csharp\Com_Polimorfismo\Com_Polimorfismo\obj\Debug\Com_Polimorfismo.pdb
+C:\Users\jvalentim\Documents\Visual Studio 2017\Projetos\Exercicios_Csharp\OO_1\Com_Polimorfismo\Com_Polimorfismo\bin\Debug\Com_Polimorfismo.exe.config
+C:\Users\jvalentim\Documents\Visual Studio 2017\Projetos\Exercicios_Csharp\OO_1\Com_Polimorfismo\Com_Polimorfismo\bin\Debug\Com_Polimorfismo.exe
+C:\Users\jvalentim\Documents\Visual Studio 2017\Projetos\Exercicios_Csharp\OO_1\Com_Polimorfismo\Com_Polimorfismo\bin\Debug\Com_Polimorfismo.pdb
+C:\Users\jvalentim\Documents\Visual Studio 2017\Projetos\Exercicios_Csharp\OO_1\Com_Polimorfismo\Com_Polimorfismo\obj\Debug\Com_Polimorfismo.csprojAssemblyReference.cache
+C:\Users\jvalentim\Documents\Visual Studio 2017\Projetos\Exercicios_Csharp\OO_1\Com_Polimorfismo\Com_Polimorfismo\obj\Debug\Com_Polimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\jvalentim\Documents\Visual Studio 2017\Projetos\Exercicios_Csharp\OO_1\Com_Polimorfismo\Com_Polimorfismo\obj\Debug\Com_Polimorfismo.exe
+C:\Users\jvalentim\Documents\Visual Studio 2017\Projetos\Exercicios_Csharp\OO_1\Com_Polimorfismo\Com_Polimorfismo\obj\Debug\Com_Polimorfismo.pdb
