@@ -1,0 +1,7 @@
+C:\Users\jvalentim\Documents\Visual Studio 2017\Projetos\Sem_Polimorfismo\Sem_Polimorfismo\bin\Debug\Sem_Polimorfismo.exe.config
+C:\Users\jvalentim\Documents\Visual Studio 2017\Projetos\Sem_Polimorfismo\Sem_Polimorfismo\bin\Debug\Sem_Polimorfismo.exe
+C:\Users\jvalentim\Documents\Visual Studio 2017\Projetos\Sem_Polimorfismo\Sem_Polimorfismo\bin\Debug\Sem_Polimorfismo.pdb
+C:\Users\jvalentim\Documents\Visual Studio 2017\Projetos\Sem_Polimorfismo\Sem_Polimorfismo\obj\Debug\Sem_Polimorfismo.csprojAssemblyReference.cache
+C:\Users\jvalentim\Documents\Visual Studio 2017\Projetos\Sem_Polimorfismo\Sem_Polimorfismo\obj\Debug\Sem_Polimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\jvalentim\Documents\Visual Studio 2017\Projetos\Sem_Polimorfismo\Sem_Polimorfismo\obj\Debug\Sem_Polimorfismo.exe
+C:\Users\jvalentim\Documents\Visual Studio 2017\Projetos\Sem_Polimorfismo\Sem_Polimorfismo\obj\Debug\Sem_Polimorfismo.pdb
