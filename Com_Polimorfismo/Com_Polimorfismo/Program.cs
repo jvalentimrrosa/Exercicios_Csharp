@@ -9,7 +9,9 @@ namespace Com_Polimorfismo
     class Program
     {
         static void Main(string[] args)
-        {          
+        {
+            var player = new Player(new MP3Player());
+
             while (true)
             {
                 var num = int.Parse(Console.ReadLine());
@@ -17,13 +19,12 @@ namespace Com_Polimorfismo
                 {
                     if (num % 2 == 0)
                     {
-                        MusicPlayer musicPlayer = new MP3Player();
+                        player.setPlayer(new MP3Player());
                     }
                     else
                     {
-                        MusicPlayer musicPlayer = new CDPlayer();
+                        player.setPlayer(new CDPlayer());
                     }
-                    var player = new Player(musicPlayer);
                     player.play();
                 }
                 else
