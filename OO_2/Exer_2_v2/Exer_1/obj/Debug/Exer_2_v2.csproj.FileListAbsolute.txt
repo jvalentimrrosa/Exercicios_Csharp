@@ -1,0 +1,7 @@
+C:\Users\jvalentim\Documents\Visual Studio 2017\Projetos\Exercicios_Csharp\OO_2\Exer_2_v2\Exer_1\bin\Debug\Exer_1.exe.config
+C:\Users\jvalentim\Documents\Visual Studio 2017\Projetos\Exercicios_Csharp\OO_2\Exer_2_v2\Exer_1\bin\Debug\Exer_1.exe
+C:\Users\jvalentim\Documents\Visual Studio 2017\Projetos\Exercicios_Csharp\OO_2\Exer_2_v2\Exer_1\bin\Debug\Exer_1.pdb
+C:\Users\jvalentim\Documents\Visual Studio 2017\Projetos\Exercicios_Csharp\OO_2\Exer_2_v2\Exer_1\obj\Debug\Exer_2_v2.csprojAssemblyReference.cache
+C:\Users\jvalentim\Documents\Visual Studio 2017\Projetos\Exercicios_Csharp\OO_2\Exer_2_v2\Exer_1\obj\Debug\Exer_2_v2.csproj.CoreCompileInputs.cache
+C:\Users\jvalentim\Documents\Visual Studio 2017\Projetos\Exercicios_Csharp\OO_2\Exer_2_v2\Exer_1\obj\Debug\Exer_1.exe
+C:\Users\jvalentim\Documents\Visual Studio 2017\Projetos\Exercicios_Csharp\OO_2\Exer_2_v2\Exer_1\obj\Debug\Exer_1.pdb
