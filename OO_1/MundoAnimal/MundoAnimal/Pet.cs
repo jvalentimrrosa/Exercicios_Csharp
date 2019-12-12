@@ -6,11 +6,10 @@ using System.Threading.Tasks;
 
 namespace MundoAnimal
 {
-    class Pet
+    abstract class Pet : Animal
     {
-        Animal pet;
-        //string animal, raca, dono;
-
+        /*Animal pet;
+        
         public Pet(Animal pet)
         {
             this.pet = pet;
@@ -19,22 +18,12 @@ namespace MundoAnimal
         public void setPet(Animal pet)
         {
             this.pet = pet;
-        }
+        }*/
 
-        public void Voz(string animal)
+        public override string Raca(string raca)
         {
-            pet.Voz(animal);
+            return raca;
         }
-
-        public void Raca(string raca)
-        {
-            pet.Raca(raca);
-        }
-
-        public void Dono(string dono)
-        {
-            pet.Dono(dono);
-            
-        }
+        public abstract string Dono(string dono);
     }
 }

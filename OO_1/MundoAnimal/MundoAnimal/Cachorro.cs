@@ -17,11 +17,5 @@ namespace MundoAnimal
         {
             return raca;
         }
-
-        public override string Dono(string dono)
-        {
-            Console.WriteLine(dono + " é o dono do!");
-            return dono;
-        }
     }
 }

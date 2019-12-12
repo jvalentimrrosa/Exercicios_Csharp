@@ -12,7 +12,7 @@ namespace MundoAnimal
 
         public abstract string Raca(string raca);
 
-        public abstract string Dono(string dono);
+        
        
     }
 

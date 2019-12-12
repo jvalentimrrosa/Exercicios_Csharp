@@ -6,17 +6,13 @@ using System.Threading.Tasks;
 
 namespace MundoAnimal
 {
-    class Gato : Animal
+    class Gato : Pet
     {
+ 
         public override void Voz(string animal)
         {
             Console.WriteLine(animal + " mia!");
             //return animal + " mia!"
-        }
-
-        public override string Raca(string raca)
-        {
-            return raca;
         }
 
         public override string Dono(string dono)

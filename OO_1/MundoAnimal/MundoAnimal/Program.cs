@@ -10,14 +10,35 @@ namespace MundoAnimal
     {
         static void Main(string[] args)
         {
-            var bicho = new Pet(new Gato());
+            aa();
+            /*
+            Animal bicho = new Gato();
             bicho.Voz(Console.ReadLine());
             bicho.Raca(Console.ReadLine());
             bicho.Dono(Console.ReadLine());
-            bicho.setPet(new Cachorro());
+            bicho = new Cachorro();
             bicho.Voz(Console.ReadLine());
             bicho.Raca(Console.ReadLine());
             bicho.Dono(Console.ReadLine());
+            Console.Read();*/
+        }
+        static void aa()
+        {
+
+            Animal bicho = new Gato();
+            bicho.Voz(Console.ReadLine());
+            bicho.Raca(Console.ReadLine());
+            
+            ((Pet)bicho ).Dono(Console.ReadLine());
+            if(bicho is Pet) (bicho as Pet).Dono(Console.ReadLine());
+
+            bicho = new Cachorro();
+            bicho.Voz(Console.ReadLine());
+            bicho.Raca(Console.ReadLine());
+            if (bicho is Pet)
+                (bicho as Pet).Dono(Console.ReadLine());
+            
+
             Console.Read();
         }
 
